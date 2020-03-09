@@ -31,6 +31,7 @@ A Curated List of Awesome FISCO-BCOS Resources
 
 # 工具
 * [区块链浏览器](https://github.com/FISCO-BCOS/fisco-bcos-browser) - FISCO-BCOS的区块链浏览器工具，支持快速搭建
+    * [区块链浏览器Docker版本](https://github.com/YoungWilliamZ/fisco-bcos-browser-docker) — 区块链浏览器 Docker 版本，实现一键部署
 * [WeBase](https://github.com/WeBankFinTech/WeBASE) - WeBank Blockchain Application Software Extension,全面FISCO-BCOS链，包括浏览器，合约IDE等，非常好用
 * [Console](https://github.com/FISCO-BCOS/console) - 跟链交互的console工具
 
